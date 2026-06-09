@@ -1,4 +1,4 @@
-AIDM – Loan Default Prediction
+Loan Default Prediction
 
 Este projeto implementa uma solução completa de MLOps em AWS SageMaker para previsão de loan default, cobrindo treino, HPO, tracking, governação, deployment, monitorização e simulação de data drift, conforme o enunciado da unidade curricular AI Deployment & Monitoring (AIDM).
 
