@@ -45,6 +45,7 @@ Monitorização & Drift
  - Drift simulado alterando distribuições numéricas
  - Métricas persistidas em S3 e CloudWatch
 
+```text
 Estrutura do Projeto
 .
 ├── 01_training_hpo_mlflow.ipynb
@@ -76,6 +77,7 @@ Estrutura do Projeto
 ├── baseline_features.csv
 ├── main.py
 └── README.md
+```
 
 Tecnologias
 
