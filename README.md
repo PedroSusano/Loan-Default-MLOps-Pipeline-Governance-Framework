@@ -1,4 +1,4 @@
-AIDM – Loan Default Prediction (Grupo 5)
+AIDM – Loan Default Prediction
 
 Este projeto implementa uma solução completa de MLOps em AWS SageMaker para previsão de loan default, cobrindo treino, HPO, tracking, governação, deployment, monitorização e simulação de data drift, conforme o enunciado da unidade curricular AI Deployment & Monitoring (AIDM).
 
@@ -84,12 +84,3 @@ Tecnologias
  - Docker (BYOC)
  - XGBoost, scikit-learn
  - Mermaid (arquitetura)
-
-Equipa
-
-AIDM - Grupo 5:
-Pedro Oliveira
-Marco Moucho
-Tiago Gonçalves
-Marta Galvão
-Rebeca Menezes
